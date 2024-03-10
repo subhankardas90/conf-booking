@@ -1,0 +1,26 @@
+{
+    "message" : "",
+    "result": true,
+    "data": [
+        {
+            "BookingId": 117,
+            "RoomId": 198,
+            "UserId": 262,
+            "BookingDate": "2024-03-10T02:14:41.141Z",
+            "frromTime": 3,
+            "toTime": 5,
+            "roomName":"Room-13",
+            "userName": "Sachin"
+          },
+          {
+            "BookingId": 118,
+            "RoomId": 194,
+            "UserId": 262,
+            "BookingDate": "2024-03-10T02:14:41.141Z",
+            "frromTime": 5,
+            "toTime": 6,
+            "roomName":"Room-25",
+            "userName": "Sachin"
+          }
+    ]
+}

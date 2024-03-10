@@ -1,0 +1,102 @@
+{
+    "message": "",
+    "result": true,
+    "data": [
+      {
+        "clientId": 73,
+        "clientName": "Anjali",
+        "companyName": "sdfsd",
+        "address": "sdfsdf",
+        "employeeStrength": 1,
+        "contactNo": "9988776633"
+      },
+      {
+        "clientId": 72,
+        "clientName": "string",
+        "companyName": "string",
+        "address": "string",
+        "employeeStrength": 0,
+        "contactNo": "string"
+      },
+      {
+        "clientId": 71,
+        "clientName": "swami",
+        "companyName": "tata",
+        "address": "nagpur galli no.3",
+        "employeeStrength": 0,
+        "contactNo": "9080980989"
+      },
+      {
+        "clientId": 67,
+        "clientName": "Axis bank ",
+        "companyName": "Axis",
+        "address": "wanwadi",
+        "employeeStrength": 88,
+        "contactNo": "6789654321"
+      },
+      {
+        "clientId": 66,
+        "clientName": "YesBank",
+        "companyName": "Clover-Infotech",
+        "address": "Mumbai",
+        "employeeStrength": 3000,
+        "contactNo": "9090887755"
+      },
+      {
+        "clientId": 45,
+        "clientName": "IBM",
+        "companyName": "SM entertainment ",
+        "address": "pune",
+        "employeeStrength": 0,
+        "contactNo": "3344332233"
+      },
+      {
+        "clientId": 43,
+        "clientName": "Cube ltd",
+        "companyName": "Cube Entertainment ",
+        "address": "xyz road",
+        "employeeStrength": 200,
+        "contactNo": "1234564566"
+      },
+      {
+        "clientId": 42,
+        "clientName": "KQ ",
+        "companyName": "KQ Entertainment ",
+        "address": "JP Road 1234",
+        "employeeStrength": 3000,
+        "contactNo": "8763412865"
+      },
+      {
+        "clientId": 41,
+        "clientName": "Jyp Ltd",
+        "companyName": "JYP Production",
+        "address": "JJ Rode 1244",
+        "employeeStrength": 200,
+        "contactNo": "9766442565"
+      },
+      {
+        "clientId": 39,
+        "clientName": "GoCare ",
+        "companyName": "GoCare",
+        "address": "Kolhapur",
+        "employeeStrength": 0,
+        "contactNo": "7766776688"
+      },
+      {
+        "clientId": 37,
+        "clientName": "M-tech",
+        "companyName": "M-tech",
+        "address": "pune",
+        "employeeStrength": 0,
+        "contactNo": "9900990099"
+      },
+      {
+        "clientId": 30,
+        "clientName": "test enterprise",
+        "companyName": "Dell",
+        "address": "test road",
+        "employeeStrength": 2000,
+        "contactNo": "8874125689"
+      }
+    ]
+  }

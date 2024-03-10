@@ -1,0 +1,87 @@
+{
+    "message": "",
+    "result": true,
+    "data": [
+      {
+        "userId": 168,
+        "clientId": 42,
+        "userName": "ashwin",
+        "userPassword": "112233",
+        "isActive": true,
+        "clientName": "KQ ",
+        "role": "ClientUser"
+      },
+      {
+        "userId": 165,
+        "clientId": 42,
+        "userName": "semmii",
+        "userPassword": "12345",
+        "isActive": true,
+        "clientName": "KQ ",
+        "role": "admin"
+      },
+      {
+        "userId": 164,
+        "clientId": 42,
+        "userName": "sam",
+        "userPassword": "12345",
+        "isActive": true,
+        "clientName": "KQ ",
+        "role": "ClientAdmin"
+      },
+      {
+        "userId": 168,
+        "clientId": 42,
+        "userName": "ashwin",
+        "userPassword": "112233",
+        "isActive": true,
+        "clientName": "KQ ",
+        "role": "ClientUser"
+      },
+      {
+        "userId": 165,
+        "clientId": 42,
+        "userName": "semmii",
+        "userPassword": "12345",
+        "isActive": true,
+        "clientName": "KQ ",
+        "role": "admin"
+      },
+      {
+        "userId": 164,
+        "clientId": 42,
+        "userName": "sam",
+        "userPassword": "12345",
+        "isActive": true,
+        "clientName": "KQ ",
+        "role": "ClientAdmin"
+      },
+      {
+        "userId": 168,
+        "clientId": 42,
+        "userName": "ashwin",
+        "userPassword": "112233",
+        "isActive": true,
+        "clientName": "KQ ",
+        "role": "ClientUser"
+      },
+      {
+        "userId": 165,
+        "clientId": 42,
+        "userName": "semmii",
+        "userPassword": "12345",
+        "isActive": true,
+        "clientName": "KQ ",
+        "role": "admin"
+      },
+      {
+        "userId": 164,
+        "clientId": 42,
+        "userName": "sam",
+        "userPassword": "12345",
+        "isActive": true,
+        "clientName": "KQ ",
+        "role": "ClientAdmin"
+      }
+    ]
+  }

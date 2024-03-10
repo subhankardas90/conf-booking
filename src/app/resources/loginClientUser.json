@@ -1,0 +1,14 @@
+{
+    "message": "",
+    "result": true,
+    "data": {
+      "userId": 165,
+      "clientId": 42,
+      "userName": "testuser",
+      "userPassword": "12345",
+      "createdDate": "2024-03-06T14:54:16.917",
+      "lastUpdated": "2024-03-06T14:54:16.917",
+      "isActive": true,
+      "role": "clientUser"
+    }
+  }

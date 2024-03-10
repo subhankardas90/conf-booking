@@ -1,0 +1,83 @@
+{
+    "message": "",
+    "result": true,
+    "data": [
+      {
+        "packageId": 106,
+        "packageName": "dfgdf",
+        "packageCost": 5825,
+        "packageDescription": "gnghjcx",
+        "isPackageActive": true
+      },
+      {
+        "packageId": 105,
+        "packageName": "string",
+        "packageCost": 0,
+        "packageDescription": "string",
+        "isPackageActive": true
+      },
+      {
+        "packageId": 97,
+        "packageName": "Pro",
+        "packageCost": 128,
+        "packageDescription": "Pro Packages",
+        "isPackageActive": true
+      },
+      {
+        "packageId": 95,
+        "packageName": "Bummmper1",
+        "packageCost": 45500,
+        "packageDescription": "Free for one month",
+        "isPackageActive": false
+      },
+      {
+        "packageId": 72,
+        "packageName": "Prime",
+        "packageCost": 1333333,
+        "packageDescription": "Prime Package...",
+        "isPackageActive": true
+      },
+      {
+        "packageId": 71,
+        "packageName": "Premium gold",
+        "packageCost": 5000,
+        "packageDescription": "Premium Gold 123...",
+        "isPackageActive": true
+      },
+      {
+        "packageId": 70,
+        "packageName": "standard",
+        "packageCost": 2000,
+        "packageDescription": "standard package....",
+        "isPackageActive": true
+      },
+      {
+        "packageId": 61,
+        "packageName": "Premiun-02",
+        "packageCost": 123345,
+        "packageDescription": "Pending",
+        "isPackageActive": true
+      },
+      {
+        "packageId": 35,
+        "packageName": "Premium Check",
+        "packageCost": 5200,
+        "packageDescription": "Better",
+        "isPackageActive": true
+      },
+      {
+        "packageId": 34,
+        "packageName": "Posting",
+        "packageCost": 2500,
+        "packageDescription": "Success",
+        "isPackageActive": true
+      },
+      {
+        "packageId": 28,
+        "packageName": "Best Master",
+        "packageCost": 45000,
+        "packageDescription": "Failure",
+        "isPackageActive": false
+      }
+    ]
+  }

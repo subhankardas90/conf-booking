@@ -1,0 +1,29 @@
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Meeting Room</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="mynavbar">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link"  routerLink="dashbaord">Dashboard</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="rooms">Rooms</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="client-users">Users</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="booking">Booking</a>
+          </li>
+      </ul>
+      <form class="d-flex">
+        <button class="btn btn-primary" type="button" (click)="onlogout()">Logout</button>
+      </form>
+    </div>
+  </nav>
+  <div class="container-fluid">
+    <router-outlet></router-outlet>
+  </div>

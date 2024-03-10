@@ -1,0 +1,198 @@
+{
+    "message": "",
+    "result": true,
+    "data": [
+      {
+        "timeId": 1,
+        "time": "12.00AM"
+      },
+      {
+        "timeId": 2,
+        "time": "12.30AM"
+      },
+      {
+        "timeId": 3,
+        "time": "1.00AM"
+      },
+      {
+        "timeId": 4,
+        "time": "1.30AM"
+      },
+      {
+        "timeId": 5,
+        "time": "2.00AM"
+      },
+      {
+        "timeId": 6,
+        "time": "2.30AM"
+      },
+      {
+        "timeId": 7,
+        "time": "3.00AM"
+      },
+      {
+        "timeId": 8,
+        "time": "3.30AM"
+      },
+      {
+        "timeId": 9,
+        "time": "4.00AM"
+      },
+      {
+        "timeId": 10,
+        "time": "4.30AM"
+      },
+      {
+        "timeId": 11,
+        "time": "5.00AM"
+      },
+      {
+        "timeId": 12,
+        "time": "5.30AM"
+      },
+      {
+        "timeId": 13,
+        "time": "6.00AM"
+      },
+      {
+        "timeId": 14,
+        "time": "6.30AM"
+      },
+      {
+        "timeId": 15,
+        "time": "7.00AM"
+      },
+      {
+        "timeId": 16,
+        "time": "7.30AM"
+      },
+      {
+        "timeId": 17,
+        "time": "8.00AM"
+      },
+      {
+        "timeId": 18,
+        "time": "8.30AM"
+      },
+      {
+        "timeId": 19,
+        "time": "9.00AM"
+      },
+      {
+        "timeId": 20,
+        "time": "9.30AM"
+      },
+      {
+        "timeId": 21,
+        "time": "10.00AM"
+      },
+      {
+        "timeId": 22,
+        "time": "10.30AM"
+      },
+      {
+        "timeId": 23,
+        "time": "11.00AM"
+      },
+      {
+        "timeId": 24,
+        "time": "11.30AM"
+      },
+      {
+        "timeId": 25,
+        "time": "12.00PM"
+      },
+      {
+        "timeId": 26,
+        "time": "12.30PM"
+      },
+      {
+        "timeId": 27,
+        "time": "1.00PM"
+      },
+      {
+        "timeId": 28,
+        "time": "1.30PM"
+      },
+      {
+        "timeId": 29,
+        "time": "2.00PM"
+      },
+      {
+        "timeId": 30,
+        "time": "2.30PM"
+      },
+      {
+        "timeId": 31,
+        "time": "3.00PM"
+      },
+      {
+        "timeId": 32,
+        "time": "3.30PM"
+      },
+      {
+        "timeId": 33,
+        "time": "4.00PM"
+      },
+      {
+        "timeId": 34,
+        "time": "4.30PM"
+      },
+      {
+        "timeId": 35,
+        "time": "5.00PM"
+      },
+      {
+        "timeId": 36,
+        "time": "5.30PM"
+      },
+      {
+        "timeId": 37,
+        "time": "6.00PM"
+      },
+      {
+        "timeId": 38,
+        "time": "6.30PM"
+      },
+      {
+        "timeId": 39,
+        "time": "7.00PM"
+      },
+      {
+        "timeId": 40,
+        "time": "7.30PM"
+      },
+      {
+        "timeId": 41,
+        "time": "8.00PM"
+      },
+      {
+        "timeId": 42,
+        "time": "8.30PM"
+      },
+      {
+        "timeId": 43,
+        "time": "9.00PM"
+      },
+      {
+        "timeId": 44,
+        "time": "9.30PM"
+      },
+      {
+        "timeId": 45,
+        "time": "10.00PM"
+      },
+      {
+        "timeId": 46,
+        "time": "10.30PM"
+      },
+      {
+        "timeId": 47,
+        "time": "11.00PM"
+      },
+      {
+        "timeId": 48,
+        "time": "11.30PM"
+      }
+    ]
+  }

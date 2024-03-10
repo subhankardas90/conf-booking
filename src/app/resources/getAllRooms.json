@@ -1,0 +1,105 @@
+{
+  "message": "",
+  "result": true,
+  "data": [
+    {
+      "roomId": 198,
+      "clientId": 30,
+      "roomName": "Room-13",
+      "roomLocation": "mumbai",
+      "roomSeatingCapacity": 50,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    },
+    {
+      "roomId": 194,
+      "clientId": 30,
+      "roomName": "Room-25",
+      "roomLocation": "mumbai",
+      "roomSeatingCapacity": 35,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    },
+    {
+      "roomId": 182,
+      "clientId": 30,
+      "roomName": "Room-23",
+      "roomLocation": "mumbai",
+      "roomSeatingCapacity": 24,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    },
+    {
+      "roomId": 179,
+      "clientId": 30,
+      "roomName": "Room-17",
+      "roomLocation": "mumbai",
+      "roomSeatingCapacity": 20,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    },
+    {
+      "roomId": 178,
+      "clientId": 30,
+      "roomName": "Room-12",
+      "roomLocation": "pune",
+      "roomSeatingCapacity": 54,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    },
+    {
+      "roomId": 175,
+      "clientId": 30,
+      "roomName": "yash",
+      "roomLocation": "mumbai",
+      "roomSeatingCapacity": 32,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    },
+    {
+      "roomId": 174,
+      "clientId": 30,
+      "roomName": "AC5",
+      "roomLocation": "pune",
+      "roomSeatingCapacity": 10,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    },
+    {
+      "roomId": 169,
+      "clientId": 30,
+      "roomName": "Sanjay",
+      "roomLocation": "mumbai",
+      "roomSeatingCapacity": 30,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    },
+    {
+      "roomId": 168,
+      "clientId": 30,
+      "roomName": "Anita",
+      "roomLocation": "Pune",
+      "roomSeatingCapacity": 50,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    },
+    {
+      "roomId": 164,
+      "clientId": 30,
+      "roomName": "Super Delux",
+      "roomLocation": "super compleax",
+      "roomSeatingCapacity": 30,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    },
+    {
+      "roomId": 17,
+      "clientId": 30,
+      "roomName": "ABCD",
+      "roomLocation": "Mumbai",
+      "roomSeatingCapacity": 20,
+      "isRoomActive": true,
+      "clientName": "test enterprise"
+    }
+  ]
+}
