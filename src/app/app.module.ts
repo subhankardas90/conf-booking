@@ -18,10 +18,10 @@ import { UserLayoutComponent } from './pages/user-layout/user-layout.component';
 import { LoginComponent } from './pages/login/login.component';
 import { AdminDashboardComponent } from './pages/admin-dashboard/admin-dashboard.component';
 import { BookingComponent } from './pages/booking/booking.component';
-import { CalendarModule, DateAdapter } from 'angular-calendar';
-import { adapterFactory } from 'angular-calendar/date-adapters/date-fns';
+import { FullCalendarModule } from '@fullcalendar/angular';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 import { NgbPaginationModule, NgbAlertModule, NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { CalenderComponent } from './pages/calender/calender.component';
 
 @NgModule({
   declarations: [
@@ -38,7 +38,8 @@ import { NgbPaginationModule, NgbAlertModule, NgbModule } from '@ng-bootstrap/ng
     UserLayoutComponent,
     LoginComponent,
     AdminDashboardComponent,
-    BookingComponent
+    BookingComponent,
+    CalenderComponent
   ],
   imports: [
     BrowserModule,
@@ -47,7 +48,8 @@ import { NgbPaginationModule, NgbAlertModule, NgbModule } from '@ng-bootstrap/ng
     FormsModule,
     NgbPaginationModule, 
     NgbAlertModule,
-    NgbModule
+    NgbModule,
+    FullCalendarModule
   ],
   providers: [
     provideAnimationsAsync()

@@ -13,6 +13,7 @@ import { ClientUserDashboardComponent } from './pages/client-user-dashboard/clie
 import { AdminDashboardComponent } from './pages/admin-dashboard/admin-dashboard.component';
 import { RoomsComponent } from './pages/rooms/rooms.component';
 import { BookingComponent } from './pages/booking/booking.component';
+import { CalenderComponent } from './pages/calender/calender.component';
 
 const routes1: Routes = [
   {path:'', component: LoginComponent},
@@ -56,7 +57,11 @@ const routes1: Routes = [
     {
       path:"booking",
       component: BookingComponent
-  }
+    },
+    {
+      path:"calender",
+      component: CalenderComponent
+    }
   ]
   },
   {path:"", component: UserLayoutComponent, 
